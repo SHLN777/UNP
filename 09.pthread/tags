@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+func	./creatt.c	/^void *func(void *arg)$/;"	f
+func1	./mulpthread.c	/^void *func1(void *arg1)$/;"	f
+func2	./mulpthread.c	/^void *func2(void *arg2)$/;"	f
+func3	./mulpthread.c	/^void *func3(void *arg3)$/;"	f
+main	./1.c	/^int main()$/;"	f
+main	./creatt.c	/^int main()$/;"	f
+main	./mulpthread.c	/^int main()$/;"	f
